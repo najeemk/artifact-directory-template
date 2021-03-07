@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/amandashu/Workout_Recommender.git",
     "dockerhub-repository": "nkanishka/workout_recommender_dsmlp:prod-feb7",
     "project-website-url": "https://workout-recommender.herokuapp.com/",
-    "project-website-code": "https://github.com/amandashu/Workout_Recommender.git",
+    "project-website-code": "https://github.com/amandashu/Workout_Recommender.git"
 }
