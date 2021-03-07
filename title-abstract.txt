@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Asnapp - Workout Video Recommender
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+For those who work out at home, finding a good workout routine is difficult. Many of the workout options you may find online are non-personalized and do not take into account your time and equipment constraints, as well as your workout preferences. Asnapp is a web application that provides personalized recommendations of workout videos by Fitness Blender, a company that provides free online workout videos. Our website displays several lists of recommendations (similar to Netflix’s user interface), such as “top upper body workouts for you”. Users can login into our website, choose between several models to generate their recommendations, browse through personalized recommendations lists, and choose a workout to do, saving them the time and effort needed to build a good workout routine.
